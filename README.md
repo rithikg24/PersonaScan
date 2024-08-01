@@ -56,3 +56,5 @@ It takes the input from the request body which is a base64 string of the image. 
 #### Status Codes:
 - ```201 Created``` - If the analysis is successful.
 - ```400 Bad Request``` - If the request format is incorrect or required fields are missing.
+#### Testing of the API:
+<img src="https://github.com/user-attachments/assets/54f86528-d1ba-44b3-83d9-b6f87c6cfcdd" width="700" height="550">
