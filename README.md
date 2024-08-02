@@ -1,5 +1,5 @@
 # PersonaScan API 
-PersonaScan is a powerful API designed to analyze and extract various attributes from images, including gender, race, emotion, age, glasses presence, facial hair, iris color, and hair color. It leverages various state-of-the-art computer vision and deep learning techniques such as Dlib, OpenCV, Deepface Library and some other pretrained models to provide detailed insights into facial features. 
+PersonaScan is a simple and fast API designed to analyze and extract various attributes from images, including gender, race, emotion, age, glasses presence, facial hair, iris color, and hair color. It leverages various state-of-the-art computer vision and deep learning techniques such as Dlib, OpenCV, Deepface Library and some other pretrained models to provide detailed insights into facial features. 
 ## Features 
 - **Gender Detection**: Identifies the dominant gender in the image. 
  - **Race Detection**: Analyzes the person's race in the image. 
